@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, i'm Gabriela 👋
 
 <!--
 **GookamDguez/GookamDguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GookamDguez&layout=compact&theme=gotham)](https://github.com/GookamDguez/github-readme-stats)
