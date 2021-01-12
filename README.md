@@ -1,7 +1,8 @@
 ### Hi there, i'm Gabriela 👋
 
 - 🔭 I’m currently working on my own portfolio site.
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning 
+<code><img height="20" alt="nodejs_hexagon" src="https://nodejs.org/static/images/logo-hexagon.png"></code>
 
 <br />
 
