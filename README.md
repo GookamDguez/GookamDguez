@@ -6,6 +6,7 @@
 <br />
 
 ### Technology stack:
+<code><img height="20" alt="js" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"></code>
 <code><img height="20" alt="Firebase" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png"></code>
 
 <!--
