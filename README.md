@@ -8,6 +8,7 @@
 ### Technology stack:
 <code><img height="20" alt="js" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"></code>
 <code><img height="20" alt="Firebase" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png"></code>
+<code><img height="20" alt="php" src="https://www.php.net/images/logos/new-php-logo.png"></code>
 
 <!--
 **GookamDguez/GookamDguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
