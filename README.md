@@ -21,4 +21,6 @@ Here are some ideas to get you started:
 -->
 <br />
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GookamDguez&theme=gotham)](https://github.com/GookamDguez/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GookamDguez&layout=compact&theme=gotham)](https://github.com/GookamDguez/github-readme-stats)
