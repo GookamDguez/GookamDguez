@@ -1,6 +1,6 @@
 ### Hi there, i'm Gabriela 👋
 
-- 🔭 I’m currently working on my own portfolio
+- 🔭 I’m currently working on my own portfolio site.
 - 🌱 I’m currently learning Node.js
 
 <br />
