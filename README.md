@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on my own portfolio site.
 - 🌱 I’m currently learning 
 <code><img height="20" alt="nodejs_hexagon" src="https://nodejs.org/static/images/logo-hexagon.png"></code>
-
+<code><img height="20" alt="reactjs" src="https://e7.pngegg.com/pngimages/452/495/png-clipart-react-javascript-angularjs-ionic-github-text-logo-thumbnail.png"></code>
 <br />
 
 ### Technology stack:
