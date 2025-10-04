@@ -1,13 +1,13 @@
 ### Hi there, i'm Gabriela 👋
 
 - 🔭 I’m currently working on my own portfolio site.
-- 🌱 I’m currently learning 
-<code><img height="20" alt="nodejs_hexagon" src="https://nodejs.org/static/images/logo-hexagon.png"></code>
-<code><img height="20" alt="reactjs" src="https://e7.pngegg.com/pngimages/452/495/png-clipart-react-javascript-angularjs-ionic-github-text-logo-thumbnail.png"></code>
+- 🌱 I’m currently learning
+- <code><img height="20" alt="python" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></code>
+<code><img height="20" alt="flutter" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Flutter_logo.svg"></code>
 <br />
 
 ### Technology stack:
-<code><img height="20" alt="js" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"></code>
+<code><img height="20" alt="python" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></code>
 <code><img height="20" alt="Firebase" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png"></code>
 <code><img height="20" alt="php" src="https://www.php.net/images/logos/new-php-logo.png"></code>
 
